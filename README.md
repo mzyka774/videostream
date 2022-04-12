@@ -1,4 +1,4 @@
-# Video Stream
+# Vid2eo Stream
 An Advanced VC Video Player created for playing video in the voice chats of Telegram Groups And Channel
 
 # Configs
@@ -28,11 +28,11 @@ ADMIN - Your User ID Get From [@MissRose_bot](https://t.me/MissRose_bot)
 
 Deploy Your Own Bot ♥️ **Star 🌟 Fork 🍴 & Deploy**
 
-### 💜 Railway - use at own risk
+### 💜 mazzika - use at own risk
 
 [![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/lntechnical2/videostream&envs=CHAT,SESSION_NAME,API_ID,API_HASH,TOKEN,ADMIN)
 
-### 💜 Heroku - simplest way
+### 💜 mazzika - simplest way
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/lntechnical2/videostream)
 
